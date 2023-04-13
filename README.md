@@ -8,3 +8,5 @@
 
 -In this project, we aim to create several control methods, to control the exoskeleton. We used the real-time data provided by the EMG sensor measurements to predict the intention of the user and implement an EMG controller.
 -Here are some Arduino libraries created that can be useful for further development of the exoskeleton.
+
+-In this Respository, we find some libraries related to the Actuators and the Sensors used in this project.
